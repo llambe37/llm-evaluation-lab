@@ -22,5 +22,20 @@ Each example includes:
 5. A proposed improved response
 
 ## Evaluation Examples
+- [Factual Accuracy and Hallucination Detection](evaluations/01-factual-accuracy.md)
+- [Instruction Following](evaluations/02-instruction-following.md)
+- [Reasoning and Consistency](evaluations/03-reasoning-consistency.md)
+- [Hallucination Detection](evaluations/04-hallucination-detection.md)
+- [Relevance and Conciseness](evaluations/05-relevance-conciseness.md)
+
+- ## Skills Demonstrated
+
+- LLM response evaluation
+- Fact-checking and accuracy assessment
+- Instruction-following analysis
+- Reasoning and consistency evaluation
+- Hallucination and unsupported-claim detection
+- Relevance and conciseness assessment
+- Written feedback and response improvement
 
 Examples will be added to this repository as individual case studies.
